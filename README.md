@@ -6,3 +6,8 @@ Conte el controlador el memoria y la implementacio de la mem principal ambuna co
 
 PROBLEMAS:
  DOna error de invalidez en lagunes execusions
+ 
+ HECHO:
+ - Controlador de memoria
+ - Implementacion de la mem principal : rank, bank, canal
+ - COla de MC no distinguix entre loads i stores. No hi ha politica de prioritat entre peticions de prefecth i sense prefetch
